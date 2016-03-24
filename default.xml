@@ -14,7 +14,7 @@
 
   <!-- UDOOboard kernel and u-boot -->
   <project path="kernel_imx" name="linux_kernel" remote="udooboard-github" revision="l5.1.1_2.1.0-udoo" />
-  <project path="bootable/bootloader/uboot-imx" name="uboot-imx" remote="udooboard-github" revision="2015.04.imx-neo" />
+  <project path="bootable/bootloader/uboot-imx" name="uboot-imx" remote="udooboard-github" revision="2015.10.fslc-qdl" />
 
   <!-- UDOOboard build -->
   <project path="build" name="android_udoo_platform_build" remote="udooboard-github" revision="android-5.1.1" >
